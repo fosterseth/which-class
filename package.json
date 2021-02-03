@@ -1,7 +1,7 @@
 {
    "name": "which-class",
    "main": "./lib/which-class",
-   "version": "0.0.0",
+   "version": "0.0.1",
    "description": "Display which class block your cursor is located in.",
    "keywords": [
       "class",
