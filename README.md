@@ -1,5 +1,5 @@
 # which-class package
 
-A short description of your package.
+Status bar will display the name of whichever class block your cursor is currently in.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Currently works for python only.
